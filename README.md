@@ -51,7 +51,7 @@ npm run dev
 
 ### Usage
 
-> This boilerplate provides a solid foundation for implementing user authentication in your MERN/PERN stack applications. You can customize and extend the existing functionalities based on your specific project requirements.
+This boilerplate provides a solid foundation for implementing user authentication in your MERN/PERN stack applications. You can customize and extend the existing functionalities based on your specific project requirements.
 
 ## License
 
